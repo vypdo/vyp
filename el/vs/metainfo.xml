@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<presentation guid="F5752207-83D9-4017-9159-72FEE57E8B32" version="0" availableOffline="1">
+	<info>
+		<title>Управление конфликтами</title>
+		<description/>
+	</info>
+	<files index="id50" thumbnail="id80" totalSize="25389866">
+		<file id="id0">data/thmb1.png</file>
+		<file id="id1">data/slide1.js</file>
+		<file id="id2">data/slide1.css</file>
+		<file id="id3">data/thmb2.png</file>
+		<file id="id4">data/slide2.js</file>
+		<file id="id5">data/slide2.css</file>
+		<file id="id6">data/thmb3.png</file>
+		<file id="id7">data/slide3.js</file>
+		<file id="id8">data/slide3.css</file>
+		<file id="id9">data/thmb4.png</file>
+		<file id="id10">data/quiz1.js</file>
+		<file id="id11">data/quiz1/fonts/fnt0.woff</file>
+		<file id="id12">data/quiz1/fonts/fnt1.woff</file>
+		<file id="id13">data/quiz1/fonts/fnt2.woff</file>
+		<file id="id14">data/quiz1/images/img-b3d7bd5634a72fb84cc9c5c3928d47d4b44a9b78.png</file>
+		<file id="id15">data/quiz1/images/quiz_bg_0.png</file>
+		<file id="id16">data/thmb5.png</file>
+		<file id="id17">data/slide5.js</file>
+		<file id="id18">data/slide5.css</file>
+		<file id="id19">data/thmb6.png</file>
+		<file id="id20">data/slide6.js</file>
+		<file id="id21">data/slide6.css</file>
+		<file id="id22">data/thmb7.png</file>
+		<file id="id23">data/quiz2.js</file>
+		<file id="id24">data/quiz2/fonts/fnt0.woff</file>
+		<file id="id25">data/quiz2/fonts/fnt1.woff</file>
+		<file id="id26">data/quiz2/fonts/fnt2.woff</file>
+		<file id="id27">data/quiz2/images/img-b3d7bd5634a72fb84cc9c5c3928d47d4b44a9b78.png</file>
+		<file id="id28">data/quiz2/images/quiz_bg_0.png</file>
+		<file id="id29">data/thmb8.png</file>
+		<file id="id30">data/slide8.js</file>
+		<file id="id31">data/slide8.css</file>
+		<file id="id32">data/thmb9.png</file>
+		<file id="id33">data/slide9.js</file>
+		<file id="id34">data/slide9.css</file>
+		<file id="id35">data/thmb10.png</file>
+		<file id="id36">data/quiz3.js</file>
+		<file id="id37">data/quiz3/fonts/fnt0.woff</file>
+		<file id="id38">data/quiz3/fonts/fnt1.woff</file>
+		<file id="id39">data/quiz3/fonts/fnt2.woff</file>
+		<file id="id40">data/quiz3/images/img-b3d7bd5634a72fb84cc9c5c3928d47d4b44a9b78.png</file>
+		<file id="id41">data/quiz3/images/quiz_bg_0.png</file>
+		<file id="id42">data/thmb11.png</file>
+		<file id="id43">data/slide11.js</file>
+		<file id="id44">data/slide11.css</file>
+		<file id="id45">data/thmb12.png</file>
+		<file id="id46">data/slide12.js</file>
+		<file id="id47">data/slide12.css</file>
+		<file id="id48">data/video1.mp4</file>
+		<file id="id49">data/quizplayer.js</file>
+		<file id="id50">index.html</file>
+		<file id="id51">data/player.js</file>
+		<file id="id53">data/browsersupport.js</file>
+		<file id="id54">data/apple-touch-icon.png</file>
+		<file id="id55">data/favicon.ico</file>
+		<file id="id56">data/fnt0.woff</file>
+		<file id="id57">data/fnt1.woff</file>
+		<file id="id58">data/fnt2.woff</file>
+		<file id="id59">data/fnt3.woff</file>
+		<file id="id60">data/fnt4.woff</file>
+		<file id="id61">data/fnt5.woff</file>
+		<file id="id62">data/fnt6.woff</file>
+		<file id="id63">data/fnt7.woff</file>
+		<file id="id64">data/fnt8.woff</file>
+		<file id="id65">data/fnt9.woff</file>
+		<file id="id66">data/html5-unsupported.html</file>
+		<file id="id67">data/html5.png</file>
+		<file id="id68">data/img0.png</file>
+		<file id="id69">data/img1.png</file>
+		<file id="id70">data/img10.jpg</file>
+		<file id="id71">data/img11.jpg</file>
+		<file id="id72">data/img2.png</file>
+		<file id="id73">data/img3.png</file>
+		<file id="id74">data/img4.png</file>
+		<file id="id75">data/img5.jpg</file>
+		<file id="id76">data/img6.png</file>
+		<file id="id77">data/img7.png</file>
+		<file id="id78">data/img8.png</file>
+		<file id="id79">data/img9.png</file>
+		<file id="id80">data/ismplayer/preview.png</file>
+	</files>
+</presentation>
